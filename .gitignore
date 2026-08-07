@@ -112,3 +112,5 @@ test_logs.txt
 dumped_armips/
 dumped_c/
 test_filter.txt
+*.sh
+*.lnk
